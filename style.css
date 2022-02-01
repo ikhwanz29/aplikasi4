@@ -1,0 +1,11 @@
+body {
+    background-image: url(img/wp2409705-snake-game-wallpapers.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+canvas {
+    border-style: solid; 
+    color: black;
+    margin: 0 auto;
+}
